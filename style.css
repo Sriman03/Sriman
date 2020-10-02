@@ -1,0 +1,88 @@
+body {
+  background-color: #DC8B76;
+}
+
+
+ul {
+  list-style-type: bold;
+  margin: 0;
+  padding: 0;
+}
+
+fries.png {text-align: center
+}
+
+li a {
+  display: block;
+  width: 100px;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+ul {
+  border: 1px solid #555;
+}
+
+li {
+  text-align: center;
+  border-bottom: 1px solid #555;
+}
+
+li:last-child {
+  border-bottom: none;
+}
+
+
+
+
+
+
+#topnav{
+     padding: 0px;
+     height: 50px;
+     width: 1250px;
+     margin: 100px;
+     background-color: gray;
+  }
+
+  #topnav li{
+      padding-right: 8px;
+      display: inline;
+      float: right;
+      text-decoration: none;
+  }
+
+#topnav li:hover{
+            background-color: black;
+         }
+  #topnav li a{
+     text-decoration: none;
+     font-family: monospace;
+     font-size: 20px;
+     color: #DC8B76;
+  }
